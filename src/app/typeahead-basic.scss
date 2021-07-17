@@ -1,0 +1,19 @@
+.div-class1 + .dropdown-menu.show {
+  background-color: red;
+  width: 300px;
+}
+
+.div-class1 {
+  background-color: red;
+  width: 300px;
+}
+
+.div-class2 {
+  background-color: yellow;
+  width: 400px;
+}
+
+.div-class2 + .dropdown-menu.show {
+  background-color: yellow;
+  width: 400px;
+}
