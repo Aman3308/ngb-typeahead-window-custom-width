@@ -1,3 +1,2 @@
 # ngb-typeahead-window-custom-width
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ngb-typeahead-window-custom-width)
+This is an example of "ngb-typeahead-window" custom width issue which I faced in one of my projects.
